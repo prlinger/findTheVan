@@ -1,0 +1,6 @@
+{
+	"desc": "Contains the Kijiji ad search category and location.",
+	"locationId": 9004,
+	"categoryId": 27,
+	"scrapeInnerAd": true
+}

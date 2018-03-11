@@ -2,6 +2,8 @@
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
+const kijiji = require('kijiji-scraper');
+// const bot = require('kijiji-fb-bot');
 
 app.set('view engine', 'ejs');
 app.use(express.static('public'));

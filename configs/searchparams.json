@@ -1,0 +1,8 @@
+
+{
+	"desc": "Contains the Kijiji ad search criteria.", 
+	"minPrice": 0,
+	"maxPrice": 10000,
+	"keywords": "vw+camper",
+	"adType": "OFFER"
+}
